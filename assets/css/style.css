@@ -11,3 +11,21 @@
     background-size: cover;
     -o-background-size: cover;
 }
+
+
+
+#back {
+    overflow: hidden;
+    animation-name: back-image;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes back-image {
+    form{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
