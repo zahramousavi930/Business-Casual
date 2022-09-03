@@ -117,7 +117,7 @@ I deployed this website by using GitPages and following the below steps:
 
 ### Media
 
-- The photos used on the banner, gallery, 4 Top Flowers section are from This Open Source site: [pexels](https://www.pexels.com/)
+- The photos used on the banner, gallery section are from This Open Source site: [pexels](https://www.pexels.com/)
 
 ## Acknowledgements
 
