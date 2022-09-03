@@ -27,7 +27,7 @@
 </head>
 
 <body>
-    
+
     <div class="brand">Business Casual</div>
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
@@ -77,7 +77,11 @@
                 </div>
                 <div class="col-md-8">
                     <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19687.91756764759!2d-8.506246720898414!3d51.91589909999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x484490710b262fb9%3A0xd1628e56667cb0c7!2sStarbucks%20Blackpool!5e0!3m2!1sen!2sie!4v1662227326761!5m2!1sen!2sie" width="700" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                   <div class="container-iframe">
+                    <iframe class="responsive-iframe"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19687.91756764759!2d-8.506246720898414!3d51.91589909999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x484490710b262fb9%3A0xd1628e56667cb0c7!2sStarbucks%20Blackpool!5e0!3m2!1sen!2sie!4v1662227326761!5m2!1sen!2sie"
+                         style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe></div>
                 </div>
                 <div class="col-md-4">
                     <p>Phone:
@@ -148,4 +152,15 @@
             </div>
         </div>
     </footer>
+    <!-- jQuery -->
+    <script src="assets/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <script>
+        $('.carousel').carousel({
+            interval: 5000 //changes the speed
+        })
+    </script>
 </body>
