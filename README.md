@@ -32,7 +32,13 @@ A huge thanks to ncausa for allowing us to use the to ues information..Coffee co
 
 __Contact Us section__
 
-  - There is a forrm that contain input tags and take information from user, such as: First Name, Last Name and Email Address.
+  - There is a forrm that contain input tags and take information from user, such as: Name and Email Address.
   - Also there is a submission button that conect to a return information  page.
 
 ![Contact Us](assets/img/form.png)
+
+- __Footer Section__
+
+  - this section contain a copyright sign and  year that this webpage bulit.
+
+![Footer Section](assets/img/footer.png)
