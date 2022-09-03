@@ -23,3 +23,8 @@ A huge thanks to ncausa for allowing us to use the to ues information..Coffee co
 
 
 ![Learn More About Flowers](assets/img/about.png)
+
+- __Gallery__
+
+  - The gallery will provide the user with supporting images to see our prodacts.
+![Gallery](assets/img/gallery.png)
