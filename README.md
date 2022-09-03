@@ -16,3 +16,10 @@ A huge thanks to ncausa for allowing us to use the to ues information..Coffee co
   - This section will allow the user to navigate from section to section across all devices easily.
 
   ![Nav Bar](assets/img/home.png)
+
+ __ About Section__
+
+  - In this section, user can learn more about coffee and our company.
+
+
+![Learn More About Flowers](assets/img/about.png)
