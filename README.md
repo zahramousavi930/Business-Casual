@@ -27,4 +27,12 @@ A huge thanks to ncausa for allowing us to use the to ues information..Coffee co
 - __Gallery__
 
   - The gallery will provide the user with supporting images to see our prodacts.
+
 ![Gallery](assets/img/gallery.png)
+
+__Contact Us section__
+
+  - There is a forrm that contain input tags and take information from user, such as: First Name, Last Name and Email Address.
+  - Also there is a submission button that conect to a return information  page.
+
+![Contact Us](assets/img/form.png)
