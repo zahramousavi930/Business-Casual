@@ -6,3 +6,13 @@ A huge thanks to ncausa for allowing us to use the to ues information..Coffee co
 
 
 ![Responsice Mockup](assets/img/shot%20.png)
+
+### Existing Features
+
+
+- __Navigation Bar__
+
+   - Featured in all three sections, the full responsive navigation bar includes links to the Home, About, Gallery,  and Contact sections and is identical in each area to allow for easy navigation.
+  - This section will allow the user to navigate from section to section across all devices easily.
+
+  ![Nav Bar](assets/img/home.png)
