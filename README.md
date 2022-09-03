@@ -42,3 +42,21 @@ __Contact Us section__
   - this section contain a copyright sign and  year that this webpage bulit.
 
 ![Footer Section](assets/img/footer.png)
+
+### Testing
+- I tested that this page works in different browsers: Chrome, Firfox, Safari.
+ 
+- I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
+ 
+- I confirmed that the navigation, header, about Home, gallery, contact  are all readable and easy understand.
+
+## Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official W3C validator.
+- CSS
+  - No errors were found when passing through the official W3C validator.
+- Accessibility
+     - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
+
+     ![Accessibility](assets/img/)
