@@ -6,9 +6,9 @@
  body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     background: url('../img/bg.jpg') no-repeat center center fixed;
+    background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
     -o-background-size: cover;
 }
 
@@ -198,7 +198,7 @@ footer p {
 }
 
 @keyframes back-image {
-    form{
+    from{
         transform: scale(1);
     }
     to{
