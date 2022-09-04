@@ -87,7 +87,7 @@ I have used several technologies that have enabled this design to work:
     - Allowed me to test the colour contrast of my webpage.
 - [W3C Markup Validation Service](https://validator.w3.org/) 
     - Used to validate all HTML code written and used in this webpage.
-- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
+- [W3C CSS Validation Service](https://validator.w3.org/nu/?doc=https%3A%2F%2Fzahramousavi930.github.io%2FBusiness-Casual%2F)
     - Used to validate all CSS code written and used in this webpage.
 - [AmIResponsive](http://ami.responsivedesign.is/)
     - Used to generate repsonsive image used in README file.
